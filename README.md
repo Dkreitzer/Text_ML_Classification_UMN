@@ -2,7 +2,9 @@
 Jupyter Notebook that can classify and visualize text files using Machine Learning
 
 Temp:
-
+<p align="center">
+<img src="Sandbox/img/Text_Files_to_History.png" width="400" height="350" title="screenshot">
+</p>
 File Structure
 
 Text_ML_Classification_UMN (root)
