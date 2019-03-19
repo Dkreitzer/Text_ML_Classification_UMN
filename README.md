@@ -3,7 +3,7 @@ Jupyter Notebook that can classify and visualize text files using Machine Learni
 
 Temp:
 <p align="center">
-<img src="Sandbox/img/Text_Files_to_History.png" width="400" height="350" title="screenshot">
+<img src="Sandbox/img/Text_Files_to_History.png" width="450" height="350" title="screenshot">
 </p>
 File Structure
 
