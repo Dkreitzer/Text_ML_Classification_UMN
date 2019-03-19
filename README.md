@@ -7,11 +7,15 @@ Temp:
 </p>
 File Structure
 
-Text_ML_Classification_UMN (root)
-Text_ML_Classification_UMN/Data (Data Home)
-- Text_ML_Classification_UMN/Data/Text_Files_History (copy of all txt files every processed)
-- Text_ML_Classification_UMN/Data/Text_Files_Trained (this file holds the most recent files used to train a model)
-- Text_ML_Classification_UMN/Data/Text_Temp_ColorCode
-- Text_ML_Classification_UMN/Data/Text_Temp_Visuals
+root/
+root/Model
+root/Model/Model1
+root/Train
+root/Analyze
+root/Predicting
+root/History
+
+
+
 
 Text_ML_Classification_UMN/Model
