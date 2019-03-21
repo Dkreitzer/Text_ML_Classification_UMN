@@ -67,17 +67,21 @@ The notebook has been configured so you can:
 #### Train a new model:
 1. Add text files to the Train folder (root/Train)
 2. Verify or adjust Grid Search settings
+
 <p align="center">
 <img src="Sandbox/img/Grid_search_settings.png" width="400" height="100" title="screenshot">
 </p>
 3. Verify or adjust Model Parameters
+
 <p align="center">
 <img src="Sandbox/img/Model_Parameters.png" width="400" height="100" title="screenshot">
 </p>
 4. Select where to save the new model
+
 <p align="center">
 <img src="Sandbox/img/save_model.png" width="350" height="75" title="screenshot">
 </p>
+
 5. Execute Cells:
     - 1 - 1.4 (Imports & Installs)
     - 2 - 2.2 (Download Files)
