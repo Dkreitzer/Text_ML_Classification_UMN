@@ -1,4 +1,6 @@
-# Text_ML_Classification_UMN
+# Machine-Learning Text Classification Notebook (MLTCN)
+
+
 Jupyter Notebook that can classify and visualize text files using Machine Learning
 
 Temp:
