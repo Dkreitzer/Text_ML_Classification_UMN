@@ -79,7 +79,7 @@ The notebook has been configured so you can:
 4. Select where to save the new model
 
 <p align="center">
-<img src="Sandbox/img/save_model.png" width="371" height="166" title="screenshot">
+<img src="Sandbox/img/save_model.png" width="325" height="145" title="screenshot">
 </p>
 
 5. Execute Cells:
