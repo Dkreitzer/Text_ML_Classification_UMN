@@ -1,6 +1,6 @@
 # Machine-Learning Text Classification Notebook (MLTCN)
 <p align="center">
-<img src="Sandbox/img/classification_process.png" width="500" height="190" title="screenshot">
+<img src="Sandbox/img/classification_process.png" width="600" height="227" title="screenshot">
 </p>
 
 The MLTCN was created to enable users with little to no programming expertise to classify text documents using unsupervised machine learning.
