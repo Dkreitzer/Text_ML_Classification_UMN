@@ -52,6 +52,12 @@ root/Predicting<br>
 root/History<br>
 <br>
 
+<p align="center">
+<img src="Sandbox/img/Text_Files_to_History.png" width="400" height="311" title="screenshot">
+</p>
+
+<br>
+
 ### Processes
 The notebook has been configured so you can:
 1. Add text files to train a model
@@ -59,7 +65,7 @@ The notebook has been configured so you can:
 3. Load CSV file (previously predicted data) to generate visuals
 
 #### Train a new model:
-1. Add text files to the Train folder (root/Train).
+1. Add text files to the Train folder (root/Train)
 2. Verify or adjust Grid Search settings
 <p align="center">
 <img src="Sandbox/img/Grid_search_settings.png" width="400" height="100" title="screenshot">
@@ -77,22 +83,22 @@ The notebook has been configured so you can:
     - 2 - 2.2 (Download Files)
     - 3 - 3.6 (Vectorization)
     - 4 - 4.6 (Model Training)
-    
- 
 
-Temp:
-<p align="center">
-<img src="Sandbox/img/Text_Files_to_History.png" width="450" height="350" title="screenshot">
-</p>
-File Structure
+#### Analyze Text Files:
+1. Add text files to the Analyze folder (root/Analyze)
+2. Select which model you want to use (from models you have saved either locally or in your GitHub repo)
+3. Choose where to save master.csv results
+4. Execute Cells:
+    - 1 - 1.4 (Imports & Installs)
+    - 2 - 2.2 (Download Files)
+    - 3 - 3.6 (Vectorization)
+    - 5 - 5.4 (Load Model)
+    - 6 - 6.3 (Predictions)
+    - 7 - 7.3 (Predict Text Files)
 
-root/ <br>
-root/Model<br>
-root/Model/Model1<br>
-root/Train<br>
-root/Analyze<br>
-root/Predicting<br>
-root/History<br>
+#### Visualizations
+
+
 
 
 
