@@ -24,7 +24,8 @@ Currently the notebook is configured specifically for Colab, but it can be downl
 1.	Fork the MLTCN repo into your own Github Account or save the repo in your Google Drive.
 2.	Open Doc_Classification_colab.ipynb in colab’s environment.
     - Github: click the link and it will open automatically.
-  <p align="center">
+    
+<p align="center">
 <img src="Sandbox/img/open_colab_github.png" width="300" height="136" title="screenshot">
 </p>
 
