@@ -1,6 +1,6 @@
 # Machine-Learning Text Classification Notebook (MLTCN)
 <p align="center">
-<img src="Sandbox/img/classification_process.png" width="500" height="190" title="screenshot">
+<img src="Sandbox/img/classification_process.png" width="600" height="227" title="screenshot">
 </p>
 
 The MLTCN was created to enable users with little to no programming expertise to classify text documents using unsupervised machine learning.
@@ -26,21 +26,21 @@ Currently the notebook is configured specifically for Colab, but it can be downl
   - Github: click the link and it will open automatically.
     
 <p align="center">
-<img src="Sandbox/img/open_colab_github.png" width="300" height="136" title="screenshot">
+<img src="Sandbox/img/open_colab_github.png" width="450" height="204" title="screenshot">
 </p>
 
    - Google Drive: Open the file and select 'open with colabratory' button.
   
 <p align="center">
-<img src="Sandbox/img/open_colab_googleDrive.png" width="300" height="136" title="screenshot">
+<img src="Sandbox/img/open_colab_googleDrive.png" width="450" height="204" title="screenshot">
 </p>
 
 3. Modify path to cloan Github Repo
 <p align="center">
-<img src="Sandbox/img/custom_Ghub_Repo.png" width="400" height="75" title="screenshot">
+<img src="Sandbox/img/custom_Ghub_Repo.png" width="500" height="93" title="screenshot">
 </p>
 
-#### File Structure
+#### File Structure:
 
 Important: The file structure below needs to remain the same for the program to automatically pull and save files properly. Do not delete, move, or rename any of the following folders unless you are changing the file path within the cells:
 
@@ -70,17 +70,17 @@ The notebook has been configured so you can:
 2. Verify or adjust Grid Search settings
 
 <p align="center">
-<img src="Sandbox/img/Grid_search_settings.png" width="400" height="100" title="screenshot">
+<img src="Sandbox/img/Grid_search_settings.png" width="500" height="173" title="screenshot">
 </p>
 3. Verify or adjust Model Parameters
 
 <p align="center">
-<img src="Sandbox/img/Model_Parameters.png" width="400" height="100" title="screenshot">
+<img src="Sandbox/img/Model_Parameters.png" width="500" height="173" title="screenshot">
 </p>
 4. Select where to save the new model
 
 <p align="center">
-<img src="Sandbox/img/save_model.png" width="325" height="145" title="screenshot">
+<img src="Sandbox/img/save_model.png" width="371" height="166" title="screenshot">
 </p>
 
 5. Execute Cells:
@@ -103,8 +103,29 @@ The notebook has been configured so you can:
 
 #### Visualizations
 
+##### 7.2 Predict Files
 
+##### 8.1 Stacked Bar Chart
+<p align="center">
+<img src="Sandbox/img/stacked_bar_example.png" width="450" height="345" title="screenshot">
+</p>
 
+##### 8.2 Clusters Heat Map
+<p align="center">
+<img src="Sandbox/img/heatmap_example.png" width="450" height="345" title="screenshot">
+</p>
+
+##### 8.3 Color Coded Text
+<p align="center">
+<img src="Sandbox/img/color_coded_text.png" width="600" height="254" title="screenshot">
+</p>
+
+##### 8.4 Polor Plots Per Cluster
+
+##### 8.7 Cosign Analysis Bar Chart
+<p align="center">
+<img src="Sandbox/img/cosign_bar_chart_example.png" width="550" height="422" title="screenshot">
+</p>
 
 
 
